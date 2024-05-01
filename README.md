@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva1437&label=Profile%20views&color=0e75b6&style=flat" alt="shiva1437" /> </p>
 
-Highly skilled QA Automation Engineer with over 5 years of experience seeking a challenging position in a dynamic organization. Passionate about delivering high-quality software solutions and optimizing the testing process through automation. Strong expertise in test planning, test case development, and test automation frameworks.
+Highly skilled QA Automation Engineer with over 5+ years of experience seeking a challenging position in a dynamic organization. Passionate about delivering high-quality software solutions and optimizing the testing process through automation. Strong expertise in Selenium with Java, test planning, test case development with good communication skills
 
 - **🌱 I’m currently learning Advanced Automation Testing concepts.**
 
